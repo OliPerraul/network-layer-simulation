@@ -1,0 +1,30 @@
+﻿Resources/pic.png
+Output/output.png
+1, 5, 65
+C
+234,445,290 
+100
+0
+85
+36
+100
+100
+R
+B
+-
+-
+-
+a2 - timeout
+-
+-
+-
+c - error
+-
+-
+-
+b1 - detected
+-
+-
+-
+-
+

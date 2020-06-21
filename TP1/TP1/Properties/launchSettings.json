@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TP1": {
+      "commandName": "Project",
+      "commandLineArgs": "parametres.txt"
+    }
+  }
+}

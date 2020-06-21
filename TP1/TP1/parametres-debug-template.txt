@@ -1,0 +1,30 @@
+﻿Resources/pic.png
+Output/output.png
+1, 5
+C
+234,445,290 
+100
+0
+85
+36
+100
+100
+D
+B
+a3 - a2
+a2 - a1
+a2 - retransmitted
+a2 - timeout
+a1 - a2
+a1 - c
+c - a1
+c - error
+c - b1
+b1 - c
+b1 - b2
+b1 - detected
+b1 - corrected
+b2 - b1
+b2 - b3
+b3 - written
+

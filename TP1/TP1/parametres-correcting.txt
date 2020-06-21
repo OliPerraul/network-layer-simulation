@@ -1,0 +1,30 @@
+﻿Resources/pic.png
+Output/output.png
+20
+C
+234,445,290 
+100
+0
+85
+36
+100
+100
+D
+B
+-
+-
+-
+-
+-
+-
+-
+c - error
+-
+-
+-
+-
+b1 - corrected
+-
+-
+-
+
